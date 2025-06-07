@@ -15,7 +15,7 @@ SkillLink is a MERN stack-based user authentication web application that allows 
 
 - ## 🏁 Getting Started
 
-### 1. Clone the Repository
+Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/skilllink.git
